@@ -1,0 +1,1 @@
+{"virtualbox":{"/usr/share/nginx/html":{"guestpath":"/usr/share/nginx/html","hostpath":"/home/arostegui/Desktop/demo/share","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/arostegui/Desktop/demo","disabled":false,"__vagrantfile":true}}}

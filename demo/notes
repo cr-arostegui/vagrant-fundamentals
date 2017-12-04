@@ -1,0 +1,7 @@
+vagrant box list
+vagrant box add -> to add a box(iso).
+vagrant ssh -> to connect
+vagrant halt -> to stop and power off.
+vagrant destroy -> to delete de VM.
+vagrant provision
+vagrant reload

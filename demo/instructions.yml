@@ -1,0 +1,10 @@
+- hosts: all
+- become: true
+tasks:
+- name: Install git
+	apt: name=git state=installed update_cache=true
+- name: Install web tools
+	apt: name={{ item }} state=installed
+	with_items:
+		- postgresql
+		- php5-fpm
